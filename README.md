@@ -1,12 +1,13 @@
 # Diego Cardoso 
 
-Hi, I am very happy to see here.<img src="https://raw.githubusercontent.com/diegodocs/diegodocs/master/wave.gif" width="30">
+Hi, I am very happy to see here.<img src="https://raw.githubusercontent.com/diegodocs/diegodocs/main/wave.gif" width="30">
 
 ## 🧑🏽‍💻 About Me
 
 🔭 Along the years I accumulated experience as Advisor, Solution Cloud Architect, DevOps Expert and Developer. Always eager to learn with my co-workers and motivated to use good code practices, conduct safe discussions, brown-bag talks and coding dojo sessions.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=diegodocs&show_icons=true)
+
 ![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=diegodocs&show_icons=true)
 
 [![Linkedin Badge](https://img.shields.io/badge/-diegodocs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/tanejasaksham/)
