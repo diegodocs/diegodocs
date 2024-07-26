@@ -1,6 +1,6 @@
 # Diego Cardoso 
 
-Hi, I am very happy to see here.<img src="https://raw.githubusercontent.com/diegodocs/diegodocs/main/wave.gif" width="30">
+Hi, I am very happy to see you here.<img src="https://raw.githubusercontent.com/diegodocs/diegodocs/main/wave.gif" width="30">
 
 ## 🧑🏽‍💻 About Me
 
